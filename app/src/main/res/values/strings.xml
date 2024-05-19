@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">HomeWork2</string>
+    // 0 taipei101
+    <string name="taipei101_name">Taipei101</string>
+    <string name="taipei101_city">Taipei</string>
+    <string name="taipei101_description">Standing tall as a symbol of modern engineering and cultural significance, Taipei 101 dominates the skyline of Taiwan\'s capital with its sleek design and towering presence</string>
+    <string name="taipei101_address">No.7, Sec. 5, Xinyi Rd., Xinyi Dist., Taipei City 110, Taiwan</string>
+    <string name="taipei101_latitude">25.034092628912592</string>
+    <string name="taipei101_longitude">121.56455498701274</string>
+    <string name="taipei101_url">https://maps.app.goo.gl/akL2Hu16r2jVnicy9</string>
+
+    // 1 museum
+    <string name="museum_name">National Palace Museum</string>
+    <string name="museum_city">Taipei</string>
+    <string name="museum_description">Nestled in Taipei, the National Palace Museum houses a priceless collection of ancient Chinese artifacts, offering a captivating journey through millennia of history and culture.</string>
+    <string name="museum_address">No. 888, Gugong Blvd., Taibao City, Chiayi County 612008, Taiwan</string>
+    <string name="museum_url">https://maps.app.goo.gl/Mto5fAjE8WRLH62G7</string>
+
+    // 2 memorial_hall
+    <string name="memorial_hall_name">National Chiang Kai-shek Memorial Hall</string>
+    <string name="memorial_hall_city">Taipei</string>
+    <string name="memorial_hall_description">The National Chiang Kai-shek Memorial Hall in Taipei stands as a grand monument honoring the legacy of the revered leader, encapsulating both Taiwan\'s rich history and its aspirations for the future.</string>
+    <string name="memorial_hall_address">No.21, Zhongshan S.Rd., Zhongzheng Dist.,Taipei City 100012, Taiwan</string>
+    <string name="memorial_hall_url">https://maps.app.goo.gl/6BpM6kFycTwEgfsn8</string>
+
+    // 3 Taroko
+    <string name="Taroko_name">Taroko National Park</string>
+    <string name="Taroko_city">Hualien</string>
+    <string name="Taroko_description">Nestled within the dramatic marble gorge of Taiwan\'s east coast, Taroko National Park mesmerizes visitors with its stunning natural landscapes, serene hiking trails, and rich biodiversity.</string>
+    <string name="Taroko_address">Taroko National Park 291, FUSHI VILLAGE, XIULIN TOWNSHIP 972003 HUALIEN COUNTY TAIWAN</string>
+    <string name="Taroko_url">https://maps.app.goo.gl/x86FFFz63dSsVzJo9</string>
+
+    // 4 sun_moon_lake
+    <string name="sun_moon_lake_name">Sun Moon Lake</string>
+    <string name="sun_moon_lake_city">Nantou</string>
+    <string name="sun_moon_lake_description">Sun Moon Lake, nestled amidst the lush mountains of central Taiwan, captivates with its serene beauty, offering a tranquil escape with picturesque views, cultural heritage, and recreational activities.</string>
+    <string name="sun_moon_lake_address">No. 102, Zhongzheng Road, Riyue Village, Yuchi Township, Nantou County</string>
+    <string name="sun_moon_lake_url">https://maps.app.goo.gl/iKEFUuA976vnYSqv6</string>
+
+    // 5 yehliu_geopark
+    <string name="yehliu_geopark_name">Yehliu Geopark</string>
+    <string name="yehliu_geopark_city">New Taipei</string>
+    <string name="yehliu_geopark_description">Yehliu Geopark, situated along Taiwan\'s northern coast, astounds visitors with its otherworldly rock formations sculpted by centuries of coastal erosion, offering a fascinating glimpse into the forces of nature at work.</string>
+    <string name="yehliu_geopark_address">No.167-1, Kantung Rd., Yehliu Village, Wanli District, New Taipei City 20744, Taiwan</string>
+    <string name="yehliu_geopark_url">https://maps.app.goo.gl/iQCjZAu2NLoTEE3dA</string>
+
+    // 6 buddha
+    <string name="buddha_name">Fo Guang Shan Buddha Museum</string>
+    <string name="buddha_city">Kaohsiung</string>
+    <string name="buddha_description">The Fo Guang Shan Buddha Museum, located in Kaohsiung, Taiwan, stands as a majestic testament to Buddhist art, culture, and philosophy, inviting visitors to immerse themselves in a journey of spiritual enlightenment and cultural discovery.</string>
+    <string name="buddha_address">No. 1 Tongling Road, Dashu, Kaohsiung 84049, Taiwan</string>
+    <string name="buddha_url">https://maps.app.goo.gl/M4u3iBju42N2yF1W6</string>
+
+
+
+</resources>
